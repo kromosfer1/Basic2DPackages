@@ -1,0 +1,14 @@
+{
+    "name": "com.kromosgames.basic2dmovementpackage",
+    "rootNamespace": "KromosGames.Basic2dMovement",
+    "references": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
